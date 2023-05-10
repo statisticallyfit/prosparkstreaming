@@ -1,3 +1,9 @@
+// Commented by @statisticallyfit
+// Because not using assembly
+// TODO - what is merge strategy here?
+
+
+/**
 import AssemblyKeys._
 
 assemblySettings
@@ -9,6 +15,7 @@ mergeStrategy in assembly <<= (mergeStrategy in assembly) { mergeStrategy => {
    else strategy
  }
 }}
+*/
 
 name := "Chap4"
 

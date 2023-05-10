@@ -1,3 +1,6 @@
-resolvers += Classpaths.typesafeResolver
+// Commented by @statisticallyfit
+// Because not using eclipse
 
-addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "2.4.0")
+//resolvers += Classpaths.typesafeResolver
+
+//addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "2.4.0")

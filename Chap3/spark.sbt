@@ -1,7 +1,8 @@
-import AssemblyKeys._
+//import AssemblyKeys._
 
-assemblySettings
+//assemblySettings
 
+/*
 mergeStrategy in assembly <<= (mergeStrategy in assembly) { mergeStrategy => {
  case entry => {
    val strategy = mergeStrategy(entry)
@@ -9,6 +10,7 @@ mergeStrategy in assembly <<= (mergeStrategy in assembly) { mergeStrategy => {
    else strategy
  }
 }}
+*/
 
 name := "Chap3"
 
